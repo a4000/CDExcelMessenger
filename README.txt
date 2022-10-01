@@ -12,8 +12,8 @@ updateCDResultsFile() lets the user import data from an Excel file into a CD res
 The user can add new columns to CD or update certain columns already in CD (Tags, Checked, Name, and any columns previously added by CDExcelMessenger.py). 
 The Tags column in CD is 15 boxes that can be used as flags by the user. 
 The updateCDResultsFile() function lets the user automate the flagging of these Tag boxes using columns in The Excel file. 
-This function also lets the user choose the threshold values that get used when flagging the Tag boxes, 
-and the user can choose the number of Tag boxes that are visable when opening the CD results file in the CD software.
+This function also lets the user choose the threshold values that get used when flagging the Tag boxes.
+Plus, the user can choose the number of Tag boxes that are visable when opening the CD results file in the CD software.
 
 updateExcelFile() lets the user import data from a CD results file into an Excel file.
 This function doesn't allow getting certain columns from CD (e.g. the Area columns).
