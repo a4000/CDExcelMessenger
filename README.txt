@@ -1,10 +1,10 @@
 CDExcelMessenger.py has functions that allow passing data between an Excel file and a Compound Discoverer (CD) results file. 
 CDExcelNotebook.ipynb is a Jupyter Notebook that is designed to make it easy to use the functions in CDExcelMessenger.py
-This project is still not complete. More testing needs to be done.
+This project is still not complete. More testing needs to be done and additional functionality is planned.
 
 The code in this project has been written by Adam Bennett
 
-The main functions in this CDExcelMessenger.py are updateCDResultsFile(), and updateExcelFile(). 
+The main functions in CDExcelMessenger.py are updateCDResultsFile(), and updateExcelFile(). 
 These are the functions that get called in CDExcelNotebook.ipynb to pass data between the Excel file and the CD results file.
 These functions call other functions in CDExcelMessenger.py.
 
