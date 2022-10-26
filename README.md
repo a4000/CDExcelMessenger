@@ -1,7 +1,7 @@
 <img src="cimcb_logo.png" alt="drawing" width="400"/>
 
 # CDExcelMessenger
-CDExcelMessenger.py has functions that allow passing data between an Excel file and a Compound Discoverer (CD) results file. There is also a function to convert data exported from CD into the TidyData format. CDExcelNotebook.ipynb is a Jupyter Notebook that is designed to make it easy to use the functions in CDExcelMessenger.py
+CDExcelMessenger.py has functions that allow passing data between an Excel file and a Compound Discoverer (CD) results file (updateCDResultsFile() and updateExcelFile()). There is also a function to convert data exported from CD into the TidyData format (tidyData()). CDExcelNotebook.ipynb is a Jupyter Notebook that is designed to make it easy to use the functions in CDExcelMessenger.py
 
 ## Steps to use
 
