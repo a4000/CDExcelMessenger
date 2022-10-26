@@ -15,7 +15,7 @@ cd CDExcelMessenger
 conda env create -f environment.yml
 conda activate CDExcelMessenger
 ```
-4. Copy your CD results file and Excel file in the folder of the CDExcelMessenger environment. You can find the path to the environment folder in the Anaconda Prompt window in the format '(CDExcelMessenger) path to environment'
+4. Copy your CD results file and Excel file to the folder of the CDExcelMessenger environment. You can find the path to the environment folder in the Anaconda Prompt window in the format '(CDExcelMessenger) path to environment'
 5. Then run this line in Anaconda Prompt and choose CDExcelNotebook.ipynb
 ```console
 jupyter notebook
