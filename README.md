@@ -24,7 +24,3 @@ jupyter notebook
 ### Authors
 - [Adam Bennett](https://github.com/a4000)
 - [David Broadhurst](https://scholar.google.ca/citations?user=M3_zZwUAAAAJ&hl=en)
-
-### Correspondence
-Professor David Broadhurst, Director of the Centre for Integrative Metabolomics & Computation Biology at Edith Cowan University.
-
