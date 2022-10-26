@@ -20,6 +20,12 @@ conda activate CDExcelMessenger
 ```console
 jupyter notebook
 ```
+6. Now that the environment is set up, in the future you just need to run these lines in Anaconda Prompt
+```console
+cd CDExcelMessenger
+conda activate CDExcelMessenger
+jupyter notebook
+```
 
 ### Authors
 - [Adam Bennett](https://github.com/a4000)
