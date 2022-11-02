@@ -142,7 +142,7 @@ def getValidTagNames(peakTable, excelFilePath, tagList, cursor):
         cdTagNum = len(cursor.fetchall())
         tagNum = len(tagList) + len(tagsInTagsCol)
         if tagNum > cdTagNum:
-            raise ValueError("ValueError", "trying to add/update "+str(tagNum)+" Tags, the maximum number of Tags is 15")
+            raise ValueError("ValueError", "trying to add/update "+str(tagNum)+" Tags, the maximum number of Tags is "+str(cdTagNum))
         
         return tagList, tagsInTagsCol, report
             
